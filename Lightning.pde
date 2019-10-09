@@ -25,15 +25,6 @@ void draw()
   rect(0,0,300,300);
 
 
-// want to make gradient  -  need help
-
-
-  for(int j=0; j<100; j++)
-  {
-    stroke(255,255,255,c);
-    line(0,j,300,j);
-    c-=1;
-  }
   
   
 
